@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+</html>
+<body>
+
+<h1>JavaScript Strings</h1>
+<h2> The length property</h2>
+<p>The length of the string is:</p>
+<p id ="demo"></p>
+
+<script>
+let tex=
+"ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+document.getElemenById("demo").inne
+rHTML =text.length;
+</script>
+
+
